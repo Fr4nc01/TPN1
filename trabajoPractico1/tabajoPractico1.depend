@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1636651935 source:c:\users\fraian\desktop\universidad\prog\proyectos\tabajopractico1\funciones.c
+	<stdio.h>
+	<stdlib.h>
+
+1636651963 source:c:\users\fraian\desktop\universidad\prog\proyectos\tabajopractico1\main.c
+	<stdio.h>
+	"libreriatp.h"
+	<stdlib.h>
+
+1636562727 c:\users\fraian\desktop\universidad\prog\proyectos\tabajopractico1\libreriatp.h
+
+1637702097 source:c:\users\fraian\desktop\universidad\prog\proyectos\trabajopractico1\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<math.h>
+
+1637702145 source:c:\users\fraian\desktop\universidad\prog\proyectos\trabajopractico1\main.c
+	<stdio.h>
+	"libreriatp.h"
+	<stdlib.h>
+	<windows.h>
+
+1637690509 c:\users\fraian\desktop\universidad\prog\proyectos\trabajopractico1\libreriatp.h
+
+1637715991 source:c:\users\fraian\desktop\universidad\prog\trabajopractico\calculadora\trabajopractico1\main.c
+	<stdio.h>
+	"libreriatp.h"
+	<stdlib.h>
+	<windows.h>
+
+1637717219 c:\users\fraian\desktop\universidad\prog\trabajopractico\calculadora\trabajopractico1\libreriatp.h
+
+1637717219 source:c:\users\fraian\desktop\universidad\prog\trabajopractico\calculadora\trabajopractico1\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<math.h>
+
